@@ -1,10 +1,7 @@
-﻿# react-curtain-reveal-box
+﻿
+[![NPM](https://img.shields.io/npm/v/react-curtain-reveal.svg)](https://www.npmjs.com/package/react-curtain-reveal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-> React Container for revealing/hiding conten with a curtain animation.
-
-[![NPM](https://img.shields.io/npm/v/react-curtain-reveal-box.svg)](https://www.npmjs.com/package/react-curtain-reveal-box) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-Hi! I created this react component since i couldnt find anything similar and wanted to share it with my fellow coders. The main idea is to have a Box which reveals its content onClick with a curtain animation. You can customise quite a lot of it, you can see a documentation of that down below. The react-curtain-reveal-box **depends on the width and height of its Parent**, so its easier to make responsive. 
+Hi! I created this react component since i couldnt find anything similar and wanted to share it with my fellow coders. The main idea is to have a Box which reveals its content onClick with a curtain animation. You can customise quite a lot of it, you can see a documentation of that down below. The react-curtain-reveal **depends on the width and height of its Parent**, so its easier to make responsive. 
 
 [Examples](https://chimeralevia.github.io/react-curtain-reveal-box/)
 
@@ -17,7 +14,7 @@ Since we are doing a lot of styling magic i used material-ui´s class generator,
 First just installed the package.
 
 ```bash
-npm install --save react-curtain-reveal-box
+npm install --save react-curtain-reveal
 ```
 
 Then just import and use the component. Just keep in mind the height and width fit to the Parent component. If you want to directly size it whithout a Parent, look at the second example please.
