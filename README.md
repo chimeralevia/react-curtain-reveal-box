@@ -6,6 +6,8 @@
 
 Hi! I created this react component since i couldnt find anything similar and wanted to share it with my fellow coders. The main idea is to have a Box which reveals its content onClick with a curtain animation. You can customise quite a lot of it, you can see a documentation of that down below. The react-curtain-reveal-box **depends on the width and height of its Parent**, so its easier to make responsive. 
 
+[Examples](https://chimeralevia.github.io/react-curtain-reveal-box/)
+
 # Dependencies
 
 Since we are doing a lot of styling magic i used material-ui´s class generator, this will change in future updates since i think less dependencies are better, but keep this in mind while using it.
